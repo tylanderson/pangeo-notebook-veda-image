@@ -5,7 +5,6 @@ updates:
     directory: "/"
     schedule:
       interval: "quarterly"
-      day: "monday"
       time: "03:00"
       timezone: "UTC"
     cooldown:
